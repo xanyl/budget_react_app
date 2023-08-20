@@ -18,7 +18,7 @@ const App = () => {
                         {/* Add Budget component here under */}        
                         <div> Hellow Wprof</div>
                         {/* Add Remaining component here under */}        
-
+                    <div>sjdfnidjnfvsodnvsjiod</div> 
                         {/* Add ExpenseTotal component here under */}        
                        
                         {/* Add ExpenseList component here under */}         
